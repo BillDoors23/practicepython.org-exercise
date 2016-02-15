@@ -6,5 +6,3 @@ for i in range(1, dividend):
         my_list.append(i)
 
 print(my_list)
-
-
