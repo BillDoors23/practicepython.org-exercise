@@ -4,7 +4,7 @@ var = []
 for i in input:
     var.append(i)
 
-if var == var[::-1]:                                    #"".join() make[a, b, c] to abc
+if var == var[::-1]:                                    #"".join() make [a, b, c] to abc
     print(input.upper() + " is palindrome!\n")                          
     print("\tINPUT")
     print("".join(var))
